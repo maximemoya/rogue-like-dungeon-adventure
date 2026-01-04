@@ -1,5 +1,16 @@
 
-<img width="1600" height="250" alt="rogue-like-dungeon-adventure" src="https://github.com/user-attachments/assets/de1a4847-e45e-4eb4-9d3f-32a1e099e97e" />
+<div align="center">
+  <a href= "https://maximemoya.github.io/rogue-like-dungeon-adventure/">
+    <img src="https://github.com/user-attachments/assets/de1a4847-e45e-4eb4-9d3f-32a1e099e97e" alt="rogue-like-dungeon-adventure-titlescreen" width="1600" height="250">
+  </a>
+</div>
+
+## 🕹️ Comment jouer ?
+
+[![Play Online](https://img.shields.io/badge/🎮_Jouer_en_ligne-Disponible-brightgreen?style=for-the-badge)](https://maximemoya.github.io/rogue-like-dungeon-adventure/) 
+[![NextJs](https://img.shields.io/badge/Powered_by_NextJs-orange?style=for-the-badge)]([https://rpg-paper-maker.com/](https://nextjs.org/))
+
+---
 
 # ⚔️ ROGUELIKE DUNGEON ADVENTURE ⚔️
 
@@ -29,10 +40,6 @@ Ce jeu rend hommage aux classiques du genre avec une approche moderne du gamepla
 * **Style Minimaliste :** Une esthétique épurée (ASCII ou Pixel Art) pour se concentrer sur l'essentiel : le challenge.
 
 ---
-
-## 🕹️ Comment jouer ?
-
-lien url coming soon.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aea0d100-4fce-46fd-9d86-f138b09449ee" alt="step02" height="500">
