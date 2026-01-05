@@ -1,0 +1,2 @@
+:HL["/rogue-like-dungeon-adventure/docs/_next/static/chunks/096ca4df9cd78450.css","style"]
+0:{"buildId":"FImq2ycFvQTdvZ06SE4zr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
