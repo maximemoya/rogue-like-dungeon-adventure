@@ -29,20 +29,24 @@ Plongez dans un labyrinthe sombre et humide à la recherche de gloire (et de tr�
 Ce jeu rend hommage aux classiques du genre avec une approche moderne du gameplay tactique.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9d5315b-d428-4404-bcd9-3f193f3a1c1d" alt="step01" height="400">
+  <a href= "https://maximemoya.github.io/rogue-like-dungeon-adventure/">
+    <img src="https://github.com/user-attachments/assets/f9d5315b-d428-4404-bcd9-3f193f3a1c1d" alt="step01" height="400">
+  </a>
 </p>
 
 ### 🌟 Caractéristiques principales
 
 * **Génération Procédurale :** Aucun donjon ne se ressemble. Chaque partie est une nouvelle aventure.
-* **Permadeath :** La mort est définitive. Si vous tombez, vous devrez tout recommencer (mais avec plus d'expérience en tant que joueur !).
+* **Permadeath :** La mort est définitive. Si vous tombez, vous devrez tout recommencer (mais avec plus d'expérience en tant que joueur).
 * **Combat au tour par tour :** Prenez le temps de réfléchir. Un faux pas et c'est la fin.
 * **Style Minimaliste :** Une esthétique épurée (ASCII ou Pixel Art) pour se concentrer sur l'essentiel : le challenge.
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aea0d100-4fce-46fd-9d86-f138b09449ee" alt="step02" height="500">
+  <a href= "https://maximemoya.github.io/rogue-like-dungeon-adventure/">
+    <img src="https://github.com/user-attachments/assets/aea0d100-4fce-46fd-9d86-f138b09449ee" alt="step02" height="500">
+  </a>
 </p>
 
 ### Commandes
@@ -52,6 +56,7 @@ Ce jeu rend hommage aux classiques du genre avec une approche moderne du gamepla
 | Se déplacer | `W` `A` `Z` `D` ou Flèches |
 | Attaquer | Proximité auto |
 | Utiliser | `Entrer` |
+| Ramasser | `G` |
 | Inventaire | `I` |
 | Personnage | `C` |
 | Quitter | `Echap` |
@@ -65,7 +70,9 @@ Ce jeu rend hommage aux classiques du genre avec une approche moderne du gamepla
 * **Algorithmes :** BSP (génération), A* (pathfinding), Bresenham (lignes/FOV), distances Manhattan/Chebyshev/Euclidienne.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/32e21e72-d895-4d47-bbf4-a92b7fc9b3a1" alt="step03" height="500">
+  <a href= "https://maximemoya.github.io/rogue-like-dungeon-adventure/">
+    <img src="https://github.com/user-attachments/assets/32e21e72-d895-4d47-bbf4-a92b7fc9b3a1" alt="step03" height="500">
+  </a>
 </p>
 
 
